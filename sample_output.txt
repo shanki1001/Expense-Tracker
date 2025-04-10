@@ -1,0 +1,29 @@
+Expenses loaded successfully.
+                ------Menu------
+         1.Add a expense
+         2.Show all Expenses
+         3.Filter the expenses by category
+         4.Delete an Expense
+         5.Save Expenses and exit
+Enter a choice:-2
+
+     Expenses Record:-
+ 1.
+ Date        :-09-04-2025
+ Amount      :-100
+ Category    :-food
+ Description :-pizza,bread
+ 2.
+ Date        :-10-04-2025
+ Amount      :-60
+ Category    :-food
+ Description :-kachauri
+
+
+                ------Menu------
+         1.Add a expense
+         2.Show all Expenses
+         3.Filter the expenses by category
+         4.Delete an Expense
+         5.Save Expenses and exit
+Enter a choice:-
