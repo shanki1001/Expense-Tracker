@@ -16,15 +16,15 @@ Track your daily expenses by category, filter them, and save/load from CSV files
 📂 Save expenses to a CSV file on exit
 
 🧪 Sample Run
-pgsql
-Copy
-Edit
+
             ------Menu------
         1. Add an expense
         2. Show all expenses
         3. Filter expenses by category
         4. Delete an expense
         5. Save expenses and exit
+
+        
 🛠️ How It Works
 Uses vector to store expenses in memory
 
@@ -39,9 +39,7 @@ Supports proper parsing of fields including multi-word descriptions (e.g. "pizza
 Entire logic written using standard C++ (no external libraries)
 
 📁 File Structure
-less
-Copy
-Edit
+
 ExpenseTracker.cpp     // Main application code
 expenses.csv           // Auto-generated CSV data file
 README.md              // This file
@@ -56,9 +54,7 @@ Interact using the provided menu options
 Upon exit, your data is saved in expenses.csv
 
 📝 CSV Format Example
-arduino
-Copy
-Edit
+
 09-04-2025,100,food,"pizza,bread"
 09-04-2025,60,food,kachauri
 The description is wrapped in quotes to support commas within it.
